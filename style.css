@@ -1,0 +1,21 @@
+.mainHeading {
+  text-align: center;
+}
+
+.imageData {
+  height: 380px;
+  width: 260px;
+  position: relative;
+  right: 15px;
+}
+
+.secondPortion {
+  display: flex;
+}
+
+input,
+select {
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+}
